@@ -1,0 +1,101 @@
+﻿Hospital Name,Location,Department,Doctors Count,Patients Count,Admission Date,Discharge Date,Medical Expenses
+Wellness Clinic,Chennai,Orthopedics,47,182,13-12-2023,14-12-2023,31364.88
+Fortis Care,Pune,ENT,15,51,29-12-2023,09-01-2024,47280.19
+Wellness Clinic,Ahmedabad,Pediatrics,20,120,07-10-2023,21-10-2023,28574.72
+Heritage Hospital,Hyderabad,Urology,8,172,29-04-2023,11-05-2023,7000.83
+City Hospital,Kolkata,Gynecology,35,76,10-02-2023,12-02-2023,47210.46
+Heritage Hospital,Hyderabad,Oncology,11,76,05-02-2023,17-02-2023,18612.34
+Global Medicare,Ahmedabad,Oncology,22,99,01-08-2023,06-08-2023,47808.55
+Apollo Health,Jaipur,General Medicine,37,173,01-10-2023,12-10-2023,12284.65
+Heritage Hospital,Jaipur,ENT,9,198,12-06-2023,18-06-2023,14650.23
+Green Valley Hospital,Pune,Pediatrics,30,107,07-12-2023,08-12-2023,30006.96
+Healing Touch,Mumbai,Dermatology,39,70,13-09-2023,15-09-2023,13282.51
+Fortis Care,Jaipur,Urology,22,38,12-03-2023,25-03-2023,13481.9
+City Hospital,Lucknow,Cardiology,32,67,18-11-2023,24-11-2023,36748.42
+Fortis Care,Jaipur,Orthopedics,27,60,18-09-2023,24-09-2023,37056.51
+Sunrise Medical,Ahmedabad,Gynecology,48,37,06-08-2023,11-08-2023,15107.89
+Healing Touch,Chennai,Cardiology,17,60,27-06-2023,30-06-2023,9348.55
+Green Valley Hospital,Chennai,Pediatrics,40,96,22-03-2023,28-03-2023,48548.44
+Healing Touch,Ahmedabad,Neurology,14,68,11-11-2023,22-11-2023,29942.75
+Apollo Health,Delhi,Urology,41,111,05-11-2023,08-11-2023,43367.53
+Fortis Care,Mumbai,Urology,46,154,14-02-2023,18-02-2023,41367.1
+Metro Hospital,Bangalore,Dermatology,7,68,06-10-2023,07-10-2023,30136.26
+Apollo Health,Hyderabad,Dermatology,28,191,08-04-2023,22-04-2023,17698.49
+Fortis Care,Ahmedabad,Oncology,32,116,28-10-2023,30-10-2023,40799.02
+Apollo Health,Hyderabad,Orthopedics,5,79,25-03-2023,29-03-2023,20952.51
+City Hospital,Lucknow,Oncology,48,91,24-02-2023,04-03-2023,10882.4
+Apollo Health,Pune,ENT,9,59,09-11-2023,16-11-2023,25177.79
+Apollo Health,Lucknow,ENT,9,171,06-04-2023,21-04-2023,21666.78
+Apollo Health,Lucknow,Dermatology,20,39,05-05-2023,10-05-2023,37856.7
+Healing Touch,Pune,Cardiology,46,55,25-09-2023,29-09-2023,25298.5
+City Hospital,Hyderabad,Dermatology,7,88,12-05-2023,21-05-2023,28558.23
+Global Medicare,Chennai,Dermatology,36,69,19-09-2023,20-09-2023,44452.26
+Healing Touch,Mumbai,Neurology,20,94,21-08-2023,28-08-2023,49955.41
+Green Valley Hospital,Jaipur,Dermatology,38,139,01-07-2023,15-07-2023,14118.62
+Global Medicare,Jaipur,Urology,38,62,07-06-2023,17-06-2023,22074.89
+Global Medicare,Kolkata,Orthopedics,22,133,13-02-2023,28-02-2023,18795.69
+Wellness Clinic,Jaipur,Neurology,47,84,20-01-2023,26-01-2023,26646.52
+Fortis Care,Jaipur,Oncology,15,40,23-10-2023,26-10-2023,37057.29
+Healing Touch,Delhi,General Medicine,46,23,27-05-2023,29-05-2023,40771.84
+City Hospital,Kolkata,Urology,6,166,16-12-2023,25-12-2023,40731.29
+Wellness Clinic,Lucknow,Urology,37,85,09-06-2023,16-06-2023,4872.04
+Metro Hospital,Lucknow,Neurology,22,167,29-12-2023,10-01-2024,44531.22
+Apollo Health,Chennai,ENT,8,61,10-09-2023,15-09-2023,42769.14
+Fortis Care,Bangalore,Gynecology,30,69,13-11-2023,26-11-2023,14701.02
+City Hospital,Jaipur,Gynecology,11,22,15-05-2023,18-05-2023,48466.08
+Sunrise Medical,Bangalore,ENT,37,26,10-07-2023,24-07-2023,25367.78
+Green Valley Hospital,Ahmedabad,Dermatology,15,112,26-03-2023,28-03-2023,32628.67
+Heritage Hospital,Lucknow,Urology,30,161,10-11-2023,25-11-2023,10166.89
+Green Valley Hospital,Bangalore,Pediatrics,8,177,13-08-2023,17-08-2023,15913.48
+Healing Touch,Hyderabad,Pediatrics,30,158,13-11-2023,22-11-2023,16757.51
+Wellness Clinic,Ahmedabad,Neurology,27,65,29-03-2023,08-04-2023,35720.61
+Green Valley Hospital,Jaipur,General Medicine,45,88,21-06-2023,05-07-2023,9438.26
+Wellness Clinic,Lucknow,Cardiology,32,51,30-12-2023,12-01-2024,27223.46
+Metro Hospital,Kolkata,Gynecology,10,94,18-01-2023,02-02-2023,35570.84
+Healing Touch,Ahmedabad,Urology,13,75,07-02-2023,13-02-2023,26027.37
+Sunrise Medical,Mumbai,Urology,23,109,23-06-2023,01-07-2023,36909.89
+Fortis Care,Pune,Oncology,41,47,25-03-2023,29-03-2023,8519.11
+Metro Hospital,Chennai,Pediatrics,9,134,17-05-2023,31-05-2023,48873.72
+Metro Hospital,Hyderabad,General Medicine,49,42,28-12-2023,07-01-2024,31342.58
+Global Medicare,Ahmedabad,Orthopedics,48,138,18-01-2023,26-01-2023,46741.91
+Global Medicare,Bangalore,ENT,42,58,18-09-2023,19-09-2023,26614.52
+Healing Touch,Ahmedabad,Urology,21,50,22-06-2023,27-06-2023,10978.18
+Global Medicare,Delhi,ENT,21,66,29-12-2023,13-01-2024,31175.27
+Sunrise Medical,Pune,Orthopedics,31,122,10-11-2023,13-11-2023,44290.86
+Heritage Hospital,Bangalore,ENT,26,85,25-09-2023,29-09-2023,7502.64
+Metro Hospital,Lucknow,ENT,31,75,06-06-2023,11-06-2023,7121.37
+Heritage Hospital,Jaipur,Urology,39,70,28-07-2023,04-08-2023,48241
+City Hospital,Ahmedabad,Neurology,14,91,20-07-2023,03-08-2023,33446.24
+Fortis Care,Bangalore,ENT,14,62,17-12-2023,30-12-2023,13590.65
+City Hospital,Chennai,Gynecology,28,84,08-02-2023,22-02-2023,20849.31
+Green Valley Hospital,Hyderabad,Neurology,35,57,09-08-2023,19-08-2023,4388.33
+Healing Touch,Pune,Pediatrics,5,41,31-03-2023,05-04-2023,23916.63
+Heritage Hospital,Bangalore,Urology,29,54,22-10-2023,05-11-2023,5084.11
+Apollo Health,Ahmedabad,Neurology,28,102,13-12-2023,20-12-2023,23328.9
+City Hospital,Delhi,Pediatrics,41,27,20-02-2023,06-03-2023,33417.28
+Healing Touch,Jaipur,Cardiology,6,110,21-09-2023,06-10-2023,36545.43
+Sunrise Medical,Jaipur,Oncology,19,31,01-07-2023,15-07-2023,43687.01
+Sunrise Medical,Kolkata,Cardiology,7,50,02-08-2023,07-08-2023,13902.24
+Apollo Health,Mumbai,Neurology,32,56,11-01-2023,26-01-2023,22456.61
+Metro Hospital,Chennai,Urology,28,154,04-09-2023,19-09-2023,23012.64
+Heritage Hospital,Lucknow,Neurology,44,194,18-08-2023,27-08-2023,33963.65
+Apollo Health,Hyderabad,Gynecology,40,150,01-05-2023,02-05-2023,9775.99
+Metro Hospital,Ahmedabad,Urology,38,108,08-04-2023,20-04-2023,17211.57
+Global Medicare,Ahmedabad,Urology,17,29,16-01-2023,25-01-2023,17999.48
+Metro Hospital,Hyderabad,Dermatology,43,96,04-02-2023,05-02-2023,42883.43
+Global Medicare,Delhi,Cardiology,21,151,07-06-2023,09-06-2023,2854.22
+Sunrise Medical,Jaipur,Neurology,40,88,22-03-2023,25-03-2023,8333.48
+City Hospital,Ahmedabad,Urology,25,131,30-06-2023,02-07-2023,47678.73
+Fortis Care,Ahmedabad,Dermatology,9,106,14-11-2023,21-11-2023,44526.27
+Healing Touch,Pune,General Medicine,48,25,16-10-2023,28-10-2023,4514.63
+Metro Hospital,Ahmedabad,Gynecology,23,20,17-04-2023,22-04-2023,25418.26
+Global Medicare,Pune,Orthopedics,6,48,11-07-2023,24-07-2023,46666.48
+Fortis Care,Hyderabad,ENT,19,152,18-09-2023,19-09-2023,39298.3
+Sunrise Medical,Delhi,General Medicine,24,43,29-09-2023,01-10-2023,45451.78
+Global Medicare,Jaipur,Pediatrics,43,133,27-01-2023,11-02-2023,24556.18
+Green Valley Hospital,Kolkata,Oncology,20,77,07-03-2023,18-03-2023,7146.07
+Wellness Clinic,Bangalore,Gynecology,28,126,29-11-2023,10-12-2023,21065.59
+Heritage Hospital,Jaipur,General Medicine,26,169,18-02-2023,19-02-2023,41677.34
+Healing Touch,Bangalore,Oncology,40,193,01-11-2023,15-11-2023,47625.7
+Metro Hospital,Lucknow,Neurology,42,163,19-05-2023,26-05-2023,8684.16
+Healing Touch,Bangalore,Urology,14,37,09-12-2023,15-12-2023,17213.05
